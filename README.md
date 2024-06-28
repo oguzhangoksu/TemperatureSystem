@@ -1,4 +1,7 @@
-**Project Summary:**
+
+![Ekran görüntüsü 2024-06-28 210513](https://github.com/oguzhangoksu/TemperatureSystem/assets/70150316/570eeb2e-cc15-4223-9357-9668c7889d1e)
+
+## **Project Summary:**
 
 This embedded system design project involves a temperature monitoring and display system. The system is built using an AT89C51 microcontroller, an ADC0804 analog-to-digital converter, an LCD display, and a keypad for user interaction. The design is created using Proteus 8 software for simulation and schematic capture.
 
